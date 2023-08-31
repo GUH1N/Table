@@ -1,0 +1,27 @@
+table{
+    width: 75%;
+    border: 5px solid white;
+    border-collapse: collapse;
+    text-align: center;
+}
+table,th{
+    height: 100px;
+}
+th{
+    border: 5px solid white;
+    border-collapse: collapse;
+    background-color: #0C356A;
+    font-style: bold;
+    font-size: x-large;
+}
+td{
+    border: 2.5px solid #fcfcfc;
+    font-style: italic;
+    font-size: larger;
+}
+tr{
+    background-color: #EF6262;
+}
+body{
+    background-color: burlywood;
+}
